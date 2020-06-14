@@ -30,11 +30,15 @@
 <p align="center">
   <img width="max" height="300" src="https://github.com/guru-shreyansh/INTERNSHALA-Java-App-Developement-Projects/blob/master/Temperature%20Converter%20Tool/C2F%20%2B%201.png">
 </p>
-
-![Connect4](https://github.com/guru-shreyansh/INTERNSHALA-Java-App-Developement-Projects/blob/master/Temperature%20Converter%20Tool/C2F%20%2B%201.png)
-☛![C4](https://github.com/guru-shreyansh/INTERNSHALA-Java-App-Developement-Projects/blob/master/Temperature%20Converter%20Tool/C2F%20%2B%202.png)
-☛![C4](https://github.com/guru-shreyansh/INTERNSHALA-Java-App-Developement-Projects/blob/master/Temperature%20Converter%20Tool/C2F%20%2B%203.png)
-☛![C4](https://github.com/guru-shreyansh/INTERNSHALA-Java-App-Developement-Projects/blob/master/Temperature%20Converter%20Tool/C2F%20%2B%204.png)
+<p align="center">
+  <img width="max" height="300" src="https://github.com/guru-shreyansh/INTERNSHALA-Java-App-Developement-Projects/blob/master/Temperature%20Converter%20Tool/C2F%20%2B%202.png">
+</p>
+<p align="center">
+  <img width="max" height="300" src="https://github.com/guru-shreyansh/INTERNSHALA-Java-App-Developement-Projects/blob/master/Temperature%20Converter%20Tool/C2F%20%2B%203.png">
+</p>
+<p align="center">
+  <img width="max" height="300" src="https://github.com/guru-shreyansh/INTERNSHALA-Java-App-Developement-Projects/blob/master/Temperature%20Converter%20Tool/C2F%20%2B%204.png">
+</p>
 
 > :hash:#JAVA #Lockdown :hash:#FX #Jar-File :hash:#App #FXML :hash:#Dev
 
