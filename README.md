@@ -33,8 +33,7 @@
 
 ![Java FX](https://img.shields.io/badge/-Finished-brightgreen.svg)
 ### A simple Tool for *Temperature* Conversion using JAVA only.
-### Open the JAR-file ⇨ Choose Conversion method
-### ⇨ Enter the Input as Temperature ⇨ Get the Results :hatching_chick:
+### Open the JAR-file ⇨ Choose Conversion method ⇨ Enter Temperature ⇨ Get the Results :hatching_chick:
 
 ```bash
 Hi! I am Shreyansh, a developer focused on crafting
