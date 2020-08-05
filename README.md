@@ -1,6 +1,20 @@
 # JAVA-FX CONNECT-4-GAME
 
 ![Java FX](https://img.shields.io/badge/-Finished-brightgreen.svg)
+
+>`C`
+>`E`
+>`R`
+>`T`
+>`I`
+>`F`
+>`I`
+>`C`
+>`A`
+>`T`
+>`E`
+<img src="Core_Java_Certificate 06-06-2020.jpg" align="center" height="600" widht="900">
+
 ### I've created the Connect4Game using Java in IntelliJ IDEA. You can access the .JAR file in the repo!
 ### To run the APP, you must have Java [JDK v8] installed in your system. For a general overview, you can checkout the output screenshots included in the repo!! Thanks :santa:
 ```bash
