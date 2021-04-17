@@ -38,8 +38,8 @@ Hi! I am Shreyansh, a developer focused on crafting
 > :hash:#JAVA #Lockdown :hash:#FX #Jar-File :hash:#App #FXML :hash:#Dev
 
 #### :heavy_plus_sign::: Get Socialistic :::heavy_plus_sign:
-➧ [Facebook](https://www.facebook.com/shreyansh.kumarsingh.7)
-➧ [Instagram](https://www.instagram.com/guru_harry/)
-➧ [Twitter](https://twitter.com/HpShreyansh)
+➧ [Facebook](https://www.facebook.com/guru.shreyansh)
+➧ [Instagram](https://www.instagram.com/guru_shreyansh/)
+➧ [Twitter](https://twitter.com/GURU_Shreyansh)
 
 @guru-shreyansh
