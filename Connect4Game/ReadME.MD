@@ -43,8 +43,8 @@
 > :hash:#JAVA #Lockdown :hash:#FX #Jar-File :hash:#App #FXML :hash:#Dev
 
 ####        :100: Get Socialistic :100:
-➧ [Facebook](https://www.facebook.com/shreyansh.kumarsingh.7)
-➧ [Instagram](https://www.instagram.com/guru_harry/)
-➧ [Twitter](https://twitter.com/HpShreyansh)
+➧ [Facebook](https://www.facebook.com/guru.shreyansh)
+➧ [Instagram](https://www.instagram.com/guru_shreyansh/)
+➧ [Twitter](https://twitter.com/GURU_Shreyansh)
 
 @guru-shreyansh
