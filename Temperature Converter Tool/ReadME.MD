@@ -33,7 +33,6 @@ Hi! I am Shreyansh, a developer focused on crafting
 </p>
 <!---
 > :hash:#JAVA #Lockdown :hash:#FX #Jar-File :hash:#App #FXML :hash:#Dev
-
 ####        :100: Get Socialistic :100:
 --->
 > :hash:#JAVA #Lockdown :hash:#FX #Jar-File :hash:#App #FXML :hash:#Dev
