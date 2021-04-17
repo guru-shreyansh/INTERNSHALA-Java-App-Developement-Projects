@@ -31,11 +31,11 @@ Hi! I am Shreyansh, a developer focused on crafting
 <p align="center">
   <img width="max" height="300" src="https://github.com/guru-shreyansh/INTERNSHALA-Java-App-Developement-Projects/blob/master/Temperature%20Converter%20Tool/C2F%20%2B%204.png">
 </p>
-
+<!---
 > :hash:#JAVA #Lockdown :hash:#FX #Jar-File :hash:#App #FXML :hash:#Dev
 
 ####        :100: Get Socialistic :100:
-
+--->
 > :hash:#JAVA #Lockdown :hash:#FX #Jar-File :hash:#App #FXML :hash:#Dev
 
 #### :heavy_plus_sign::: Get Socialistic :::heavy_plus_sign:
