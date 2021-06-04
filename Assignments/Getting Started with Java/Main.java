@@ -1,10 +1,9 @@
 import java.util.Scanner;
 
 public class Main {
-
     public static void main(String[] args) {
 
-		/* Student ID Card Generator */
+	/* Student ID Card Generator */
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Enter Name: ");
