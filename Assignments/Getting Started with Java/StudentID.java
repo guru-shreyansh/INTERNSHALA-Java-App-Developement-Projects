@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class StudentID
 {
+	/* Student ID Card Generator */
 	public static void main(String[] args)
 	{
 	String studentName;
@@ -9,6 +10,7 @@ public class StudentID
 	String bloodGroup;
 	String studentGroup = "";
 	
+	/* Scanning input data from the user */
 	Scanner reader = new Scanner(System.in);
 	System.out.println("Enter your name :");
 	studentName = reader.nextLine();
@@ -17,6 +19,7 @@ public class StudentID
 	System.out.println("Enter your blood group :");
 	bloodGroup = reader.next();
 	
+	/* Deciding the `studentGroup` based on the age */
 	if (studentAge >= 20)
 	{
 		studentGroup = "RED";
@@ -30,6 +33,7 @@ public class StudentID
 		studentGroup = "YELLOW";
 	}
 	
+	/* Printing the ID-Card */
 	System.out.println("----------------------------------");
 	System.out.println("Name: " +studentName);
 	System.out.println("Age: " +studentAge);
