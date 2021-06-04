@@ -1,4 +1,4 @@
-import java.util.Scanner; // Importing Scanner classs
+import java.util.Scanner; // Importing Scanner class
 
 public class TaxCalculator
 {
